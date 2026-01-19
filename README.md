@@ -1,5 +1,5 @@
 <!-- Header 区域 -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/mnbvcxzz1375">YeCheng He</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/mnbvcxzz1375">Yecheng He</a> 👋</h1>
 <h3 align="center">Learning Multimodal Large Models</h3>
 
 <p align="center">
