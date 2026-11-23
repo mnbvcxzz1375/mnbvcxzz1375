@@ -1,5 +1,5 @@
 <!-- Header 区域 -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/mnbvcxzz1375">Yecheng He</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/mnbvcxzz1375">Andrew He</a> 👋</h1>
 <h3 align="center">Learning Multimodal Large Models</h3>
 
 <p align="center">
@@ -17,10 +17,8 @@
 
 ## 👨‍💻 About Me / 关于我
 
-- 🔭 Working on：**multimodal large model distillation · vision-language models · computer vision**
-- 🏫 School: **SouthWest University**
+- 🔭 Working on：**Multimodal Large Model Distillation · Vision-Language Models · Computer Vision · Medical image segmentation · Context Engineering**
 - 🌱 Currently learning：efficient training, model compression, evaluation for multimodal LLMs
-- 💬 Ask me about：deep learning / PyTorch / training tricks
 - 📫 How to reach me：andrewhyc-17@outlook.com
 ---
 
