@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me / 关于我
 
-- 🔭 Working on：**Multimodal Large Model Distillation · Vision-Language Models · Computer Vision · Medical image segmentation · Context Engineering**
+- 🔭 Working on：**Multimodal Large Model Distillation · Vision-Language Models · Computer Vision · Medical Image Segmentation(\*) · Context Engineering(\*)**
 - 🌱 Currently learning：efficient training, model compression, evaluation for multimodal LLMs
 - 📫 How to reach me：andrewhyc-17@outlook.com
 ---
